@@ -90,3 +90,24 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: Appointment
+  examples: |
+    - I want to make an appointment
+    - I need an appointment
+    - I would like to book an appointment
+    - I prefer an appointment
+
+- intent: TODO_item
+  examples: |
+    - I want to go to swim
+    - To meet my doctor
+    - To have fun
+    - To go shopping
+
+- intent: Timer
+  examples: |
+    - Time to sleep
+    - It's time for sleeping
+    - It's your time to present
+    - Don't forget our meeting
