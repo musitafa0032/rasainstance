@@ -91,21 +91,21 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
 
-- intent: Appointment
+- intent: appointment
   examples: |
     - I want to make an appointment
     - I need an appointment
     - I would like to book an appointment
     - I prefer an appointment
 
-- intent: TODO_item
+- intent: todo
   examples: |
     - I want to go to swim
     - To meet my doctor
     - To have fun
     - To go shopping
 
-- intent: Timer
+- intent: timer
   examples: |
     - Time to sleep
     - It's time for sleeping
